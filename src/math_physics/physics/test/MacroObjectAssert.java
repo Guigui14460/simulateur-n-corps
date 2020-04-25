@@ -72,7 +72,7 @@ public class MacroObjectAssert {
                 .equals(new Vector3D()) : "La nouvelle vitesse doit être différente de celle de départ (origine)";
         assert object2.getVelocity().getX() > 0 && object2.getVelocity().getY() > 0
                 && object2.getVelocity().getZ() < 0 : "Le calcul de la nouvelle vitesse est incorrect";
-        assert !object2.getPosition().equals(Constants.ORIGIN) : "La nouvelle position ne pas être l'origine du repère";
+        assert !object2.getPosition().equals(new Vector3D()) : "La nouvelle position ne pas être l'origine du repère";
         assert object2.getPosition().getX() > 0 && object2.getPosition().getY() > 0
                 && object2.getPosition().getZ() < 0 : "Le calcul de la nouvelle position est incorrect";
     }

@@ -243,8 +243,7 @@ public abstract class GenericObject {
      * @param deltaTime Temps écoulé
      */
     public void computeNewPositions(double deltaTime) {
-        this.position = this.position.plus(this.velocity.product(deltaTime))
-                .plus(this.acceleration.product(0.5 * deltaTime * deltaTime)); // xf = xi + v*t + 0.5*a*(t^2)
+        this.position = this.position.plus(this.velocity.product(deltaTime)); // xf = xi + v*t
     }
 
     /**
@@ -257,8 +256,8 @@ public abstract class GenericObject {
      */
     public void simulate(List<GenericObject> allObjects, double deltaTime) {
         this.computeNewAccelerations(allObjects); // Calcule et remplace l'accélération
-        this.computeNewPositions(deltaTime); // Met à jour la vitesse
         this.computeNewVelocities(deltaTime); // Met à jour la position
+        this.computeNewPositions(deltaTime); // Met à jour la vitesse
     }
 
     /**
