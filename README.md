@@ -47,7 +47,7 @@ Lien pour accéder à la documentation du projet : https://guigui14460.github.io
 
 
 ## Auteurs du projet
-- AGBODJAN Wilfried 21914933
-- MORLAY Antoine 21803153
-- PIGNARD Alexandre 21701890
-- LETELLIER Guillaume (moi) 21804030
+- AGBODJAN Wilfried
+- MORLAY Antoine
+- PIGNARD Alexandre
+- [LETELLIER Guillaume](https://github.com/Guigui14460)
