@@ -9,7 +9,8 @@ Projet universitaire proposé par par l'Université de Caen Normandie afin d'app
 1. [Introduction au sujet](#introduction)
 2. [Setup](#setup)
 3. [Commandes](#commandes)
-4. [Auteurs du projet](#auteurs-du-projet)
+4. [Documentation](#documentation)
+5. [Auteurs du projet](#auteurs-du-projet)
 
 
 ## Introduction
@@ -39,6 +40,10 @@ Les commandes principales sont :
 
 Ces commandes provoqueront l'installation des librairies externes (ce qui **nécessite une connexion
 internet**).
+
+
+## Documentation
+Lien pour accéder à la documentation du projet : https://guigui14460.github.io/Simulateur-N-corps/
 
 
 ## Auteurs du projet
