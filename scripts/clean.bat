@@ -1,1 +1,0 @@
-rmdir /s /q bin dist docs lib
