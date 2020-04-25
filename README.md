@@ -2,6 +2,8 @@
 
 Projet universitaire proposé par par l'Université de Caen Normandie afin d'approfondir notre connaissance dans la conception de logiciel.
 
+<img src="logo-UNICAEN.jpg" style="width: 100px;" />
+
 
 ## Table des matières
 1. [Introduction au sujet](#introduction)
@@ -14,6 +16,7 @@ Projet universitaire proposé par par l'Université de Caen Normandie afin d'app
 Le but du projet est de réaliser un **simulateur à N corps**. Ceci permet de simuler l'interaction gravitationnelle entre chaque corps. Ainsi, un corps exerce des forces sur tous les autres corps et ceux-ci exercent des forces sur ce corps.
 
 Pour ce projet, nous avons utilisé les **équations de Newton** (d'où l'utilisation du terme "force")
+![Aperçu de l'espace de simulation](simulator.png)
 
 
 ## Setup
