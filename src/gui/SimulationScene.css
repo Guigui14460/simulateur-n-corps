@@ -1,0 +1,72 @@
+.root, .vbox {
+    -fx-background: #1e4655;
+}
+
+.button, .titled-pane, .check-box {
+    -fx-text-fill: #000000;
+}
+
+.exit_button, .list-cell:selected {
+    -fx-text-fill: #ffffff;
+}
+
+.button {
+    -fx-font-size: 12px;
+    -fx-background-color:#688e9c;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#6888a7, #2A5058);
+}
+
+.exit_button{
+    -fx-background-color: #940b0b;
+}
+
+.exit_button:hover{
+    -fx-background-color: linear-gradient(#c95050, #940b0b);
+}
+
+.slider .thumb {
+    -fx-background-color: #333333;
+}
+
+.slider .thumb:hover {
+    -fx-background-color: #1a1a1a;
+}
+
+.slider .track {
+    -fx-background-color: #4b4b4b;
+    -fx-background-insets: 1 0 -1 0, 0, 1;
+    -fx-background-radius: 2.5, 2.5, 1.5;
+    -fx-padding: 0.208333em;
+}
+
+.check-box {
+    -fx-font: 14 arial;
+    -fx-wrap-text: true;
+}
+
+.titled-pane > .title {
+    -fx-background-color: #4a99b6;
+}
+
+.titled-pane > .title:hover {
+    -fx-background-color: #42839b;
+}
+
+.titled-pane > *.content {
+    -fx-background-color: #688e9c
+}
+
+.list-cell:even {
+    -fx-background-color: #6dadc5;
+}
+
+.list-cell:even:selected, .list-cell:odd:selected {
+    -fx-background-color: #2c5c6d;
+}
+
+.list-cell:odd {
+    -fx-background-color: #3a7a92;
+}
