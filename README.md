@@ -1,6 +1,6 @@
 # Simulateur à N corps
 
-Projet universitaire proposé par par l'Université de Caen Normandie afin d'approfondir notre connaissance dans la conception de logiciel.
+Projet universitaire proposé pour l'UE Conception Logicielle Avancée en L2 Informatique par l'Université de Caen Normandie afin d'approfondir notre connaissance dans la conception de logiciel.
 
 <img src="logo-UNICAEN.jpg" style="width: 100px;" />
 
