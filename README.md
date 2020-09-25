@@ -43,7 +43,7 @@ internet**).
 
 
 ## Documentation
-Lien pour accéder à la documentation du projet : https://guigui14460.github.io/Simulateur-N-corps/
+Lien pour accéder à la documentation du projet : https://guigui14460.github.io/simulateur-n-corps/
 
 
 ## Auteurs du projet
