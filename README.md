@@ -49,5 +49,5 @@ Lien pour accéder à la documentation du projet : https://guigui14460.github.io
 ## Auteurs du projet
 - AGBODJAN Wilfried
 - MORLAY Antoine
-- PIGNARD Alexandre
+- [PIGNARD Alexandre](https://github.com/Myrani)
 - [LETELLIER Guillaume](https://github.com/Guigui14460)
